@@ -143,6 +143,8 @@ h1,
   }
 }
 
+h1 {border: 1px solid red;}
+
 h2,
 .h2 {
   font-size: calc(1.325rem + 0.9vw);
