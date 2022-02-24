@@ -102,6 +102,8 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.new-class {margin: 20px; background-color: #ccc;}
+
 hr {
   margin: 1rem 0;
   color: inherit;
@@ -11850,7 +11852,7 @@ fieldset:disabled .btn {
 }
 @media print {
   .d-print-inline {
-    /* display: inline !important; */
+    display: inline !important;
   }
 
   .d-print-inline-block {
